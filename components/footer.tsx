@@ -42,7 +42,7 @@ export function Footer() {
 
         {/* License */}
         <p className="text-xs text-muted-foreground max-w-md">
-          © {new Date().getFullYear()} NepoReadme • Licensed under <strong>GPL-3.0</strong> • Credit required in all forks
+          © {new Date().getFullYear()} NepoReadme. All rights reserved.
         </p>
       </div>
     </footer>
