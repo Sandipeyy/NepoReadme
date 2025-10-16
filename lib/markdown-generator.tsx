@@ -240,7 +240,7 @@ export function generateMarkdown(config: ReadmeConfig): string {
   }
 
   // Footer
-  markdown += `---\n\n<div align="center">\n\n### ✨ Created with [NepoReadme](https://neporeadme.vercel.app) by [NepoAI](https://nepoai.com)\n\n</div>\n`
+  markdown += `---\n\n<div align="center">\n\n### ✨ Created with [NepoReadme](https://neporeadme.vercel.app)\n\n</div>\n`
 
   return markdown
 }
